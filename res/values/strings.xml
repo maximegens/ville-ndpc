@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ville du Nord Pas-de-Calais</string>
+    <string name="hint_entrer_ville">Entrez le nom d\'une ville</string>
+    <string name="ajouter_ville">Ajouter la ville</string>
+    <string name="contentDescriptionLogo">Logo de l\'application</string>
+    <string name="title_activity_slider">SliderActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="titre_slider">Quelles distances désirez-vous ? </string>
+    <string name="distance">0 km</string>
+    <string name="valide_distance">Valider cette distance</string>
+    <string name="titre_ville_proche">Liste des villes à une distance de </string>
+    <string name="description_ville_proche">Sélectionnez une ville pour afficher son itinéraire</string>
+    <string name="title_accueil">Voiçi une liste des principales villes du Nord-Pas-De-Calais</string>
+    <string name="description_slider">Choisissez une distance en KM afin de pouvoir voir les villes les plus proche</string>
+  
+
+</resources>
